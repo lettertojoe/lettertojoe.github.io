@@ -399,7 +399,7 @@
       <span class="pulse-dot"></span> Available for projects
     </div>
     <h1 class="hero-h1">
-      <span class="hl">·</span>Hi, I'm <span class="hl">Your Name</span><span class="hl">·</span>
+      <span class="hl">·</span>Hi, I'm <span class="hl">Joseph Ozurumba</span><span class="hl">·</span>
     </h1>
     <div class="hero-role">Network Engineer<span class="cursor"></span></div>
     <p class="hero-sub">
