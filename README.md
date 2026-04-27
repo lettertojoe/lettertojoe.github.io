@@ -371,7 +371,7 @@
 <nav class="navbar navbar-expand-lg fixed-top">
   <div class="container">
     <a class="navbar-brand" href="#hero">
-     ! <span class="bracket">&lt;</span>NetEngineer<span class="bracket">/&gt;</span>!
+     
     </a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navMenu">
       <span class="navbar-toggler-icon"></span>
